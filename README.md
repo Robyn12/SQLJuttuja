@@ -1,0 +1,2 @@
+# SQLJuttuja
+OmiaJuttuja
