@@ -51,7 +51,7 @@ def lisaaKirja(mydb, kirja):
 	print(importti.rowcount, "kirja lisätty.")
 
 def connectMysql():
-	mydb = con.connect(host="127.0.0.1", user="user", passwd="DatabaseSalasana1", database="my_db")
+	mydb = con.connect(host="127.0.0.1", user="**", passwd="**", database="my_db")
 	return mydb
 def main():
 	mydb = connectMysql()
